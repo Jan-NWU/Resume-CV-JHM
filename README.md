@@ -1,20 +1,26 @@
 # NWU Student
 
-### About Me
+## About Me
 
-### Education
+JHM Greyling is about to start his journey into the industry of IT. 
+Looking to build experience and learn all there is about the IT world. 
+With a love of information and problem solving. 
+With a dream to help modernise South Africa’s systems. 
+This includes both private and public systems.
 
-### Work Experience 
+## Education
 
-### Projects
+## Work Experience 
 
-### Resume/CV
+## Projects
 
-### Skills
+## Resume/CV
 
-### Hobbies
+## Skills
 
-### Links
+## Hobbies
 
-### Contact Information
+## Links
+
+## Contact Information
 
