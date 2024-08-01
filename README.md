@@ -62,13 +62,29 @@ Helped with the design and printing of 3D printing.
 
 ## Projects
 
-## Resume/CV
+- CMPG 115, System security assignment. 
+- CMPG 213 and 223, Project management assignment. 
+- CMPG 311 and CMPG 321, Database Project 
+- CMPG 315, Networks assignment
+- CMPG 323, NWU web project
+
+All relevant links are on my GitHub
 
 ## Skills
 
-## Hobbies
+- Problem solving
+- Programming: C,C#,C++,Java
+- Communication
+- Data analysis	
+- Critical thinking
 
 ## Links
 
+- LinkedIn: https://www.linkedin.com/in/jan-greyling-273a92320/
+- GitHub: https://github.com/Jan-NWU
+  
 ## Contact Information
+
+SelNumber: +27 82 625 4233
+eMail: jhm.greyling@gmail.com
 
