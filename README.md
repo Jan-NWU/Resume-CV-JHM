@@ -9,6 +9,7 @@ With a dream to help modernise South Africa’s systems.
 This includes both private and public systems.
 
 ## Education
+
 - High School:
 
   A Student from 2012 to 2016 at Waterkloof, Pretoria, Gauteng. With the following Subjects:
@@ -33,8 +34,31 @@ This includes both private and public systems.
   I started my studies believing that I would only like the programming aspects but soon realized that data analysis and information drew me closer to the world of Information Technology. 
 
   Using this newfound realization I focused on expanding my knowledge in the use and analysis of data to create information.
+
+- Music Theory
+
+  A course in music theory grades one to three. 
+
+  During my high school years, I studied music theory and guitar. 
+
+  I still play to this day.
   
 ## Work Experience 
+
+**Factory Assistant 
+
+Macsteel Fluid control 
+
+Vacation work during my high school years to earn extra pocket money and build experience.
+
+
+
+**Design/IT Assistant 
+
+Mr. Wenzel Greyling 
+
+Helped with the design and printing of 3D printing.
+
 
 ## Projects
 
