@@ -9,6 +9,16 @@ With a dream to help modernise South Africa’s systems.
 This includes both private and public systems.
 
 ## Education
+- High School:
+  A Student from 2012 to 2016 at Waterkloof, Pretoria, Gauteng. With the following Subjects:
+  - Afrikaans Home Language
+  - English First Additional Language
+  - Mathematics
+  - Alpha Mathematics
+  - Science
+  - Information Technology
+  - History
+
 
 ## Work Experience 
 
