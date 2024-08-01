@@ -12,6 +12,7 @@ This includes both private and public systems.
 - High School:
 
   A Student from 2012 to 2016 at Waterkloof, Pretoria, Gauteng. With the following Subjects:
+  
   - Afrikaans Home Language
   - English First Additional Language
   - Mathematics
@@ -19,9 +20,20 @@ This includes both private and public systems.
   - Science
   - Information Technology
   - History
+ 
+  During High school I was part of the Robotics group. The group used Legos robotics program and building blocks to complete challenges as well as an expo style project to be completed. Voortrekkers was the other main 
+  activity I was part of. This grew my love for nature and the South African culture.
 
-During High school I was part of the Robotics group. The group used Legos robotics program and building blocks to complete challenges a\swell as an expo style project to be completed. Voortrekkers was the other main activity I was part of. This grew my love for nature and the South African culture.
+- NWU Potchefstroom
 
+  NWU Potchefstroom BSc in Science and Information Technology. 
+
+  a student at the NWU Potchefstroom in South Africa Potchefstroom.   
+
+  I started my studies believing that I would only like the programming aspects but soon realized that data analysis and information drew me closer to the world of Information Technology. 
+
+  Using this newfound realization I focused on expanding my knowledge in the use and analysis of data to create information.
+  
 ## Work Experience 
 
 ## Projects
