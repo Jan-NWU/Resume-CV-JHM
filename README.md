@@ -29,7 +29,7 @@ This includes both private and public systems.
 
   NWU Potchefstroom BSc in Science and Information Technology. 
 
-  a student at the NWU Potchefstroom in South Africa Potchefstroom.   
+  A student at the NWU Potchefstroom in South Africa Potchefstroom.   
 
   I started my studies believing that I would only like the programming aspects but soon realized that data analysis and information drew me closer to the world of Information Technology. 
 
@@ -85,6 +85,6 @@ All relevant links are on my GitHub
   
 ## Contact Information
 
-- SelNumber: +27 82 625 4233
-- eMail: jhm.greyling@gmail.com
+- Cellphone number: +27 82 625 4233
+- E Mail: jhm.greyling@gmail.com
 
