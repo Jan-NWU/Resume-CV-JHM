@@ -45,7 +45,7 @@ This includes both private and public systems.
   
 ## Work Experience 
 
-**Factory Assistant 
+**Factory Assistant**
 
 Macsteel Fluid control 
 
@@ -53,7 +53,7 @@ Vacation work during my high school years to earn extra pocket money and build e
 
 
 
-**Design/IT Assistant 
+**Design/IT Assistant**
 
 Mr. Wenzel Greyling 
 
