@@ -85,6 +85,6 @@ All relevant links are on my GitHub
   
 ## Contact Information
 
-SelNumber: +27 82 625 4233
-eMail: jhm.greyling@gmail.com
+- SelNumber: +27 82 625 4233
+- eMail: jhm.greyling@gmail.com
 
